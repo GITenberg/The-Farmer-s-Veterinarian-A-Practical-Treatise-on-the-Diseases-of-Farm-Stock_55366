@@ -1,5 +1,8 @@
 _repo: The-Farmer-s-Veterinarian-A-Practical-Treatise-on-the-Diseases-of-Farm-Stock_55366
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55366-h/images/coversm.jpg
 creator:
   author:
     agent_name: Burkett, Charles William
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '9517'
     url: http://www.gutenberg.org/2009/agents/9517
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55366#The-Farmer-s-Veterinarian-A-Practical-Treatise-on-the-Diseases-of-Farm-Stock
 gutenberg_issued: '2017-08-16'
 gutenberg_type: Text
 identifiers:
